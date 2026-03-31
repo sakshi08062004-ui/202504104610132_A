@@ -1,12 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    font-family: Arial;
-    text-align: center;
-}
-
-ul {
-    list-style: none;
-}
-
-li {
-    margin: 10px;
-}
+    font-family: 'Segoe UI', T
